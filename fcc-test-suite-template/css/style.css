@@ -14,11 +14,15 @@ body {
 #page-wrapper {
   position: relative;
 }
+
+li {
+  list-style: none;
+}
+
 a {
   color: #000;
   text-decoration: none;
 }
-
 
 #pricing {
   display: flex;
